@@ -1,0 +1,8 @@
+{
+  "name": "BioLab 3D - MAX Online Biologie",
+  "description": "Interactieve biologie leerapp met 3D-modellen, quizzen, minigames, klassement, gepersonaliseerde feedback en LVS-koppeling (Magister / Somtoday) voor MAX Online 1.1-1.7 en 3.1-3.8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
